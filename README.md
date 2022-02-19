@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/91925895/154809247-d54850d7-c534-46bc-be59-66dd43d32e30.jpeg" height="10%">
+<img src="https://user-images.githubusercontent.com/91925895/154809637-591db653-10de-4b42-b109-274fb647e6e8.png">
 
 
 ![Lim's github stats](https://github-readme-stats.vercel.app/api?username=EuilimChoi&show_icons=true&include_all_commits=true&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
