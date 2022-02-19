@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Lim's github stats](https://github-readme-stats.vercel.app/api?username=EuilimChoi&show_icons=true&hide=Issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Lim's github stats](https://github-readme-stats.vercel.app/api?username=EuilimChoi&show_icons=true&hide=totalissues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
